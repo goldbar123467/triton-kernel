@@ -1,7 +1,0 @@
-__pycache__/
-*.pyc
-.pytest_cache/
-*.csv
-.venv/
-CLAUDE.md
-rules.md
